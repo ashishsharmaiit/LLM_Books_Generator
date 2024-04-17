@@ -5,6 +5,9 @@ Chapter 10 - LLM Books Generator
 
 Click on image above for Video demo
 
+
+
+
 This was a side project to generate short books of 10 chapters on any topic that person wants to read on. The books were generated using LLM via OpenAI APIs. 
 
 The user experience is 
