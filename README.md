@@ -1,6 +1,6 @@
 Chapter 10 - LLM Books Generator
 
-[![Chapter 10 - LLM Books Generator Demo](https://img.youtube.com/vi/h1nKOCWFg4E/1.jpg)](https://www.youtube.com/watch?v=h1nKOCWFg4E)
+[![Chapter 10 - LLM Books Generator Demo](https://img.youtube.com/vi/h1nKOCWFg4E/0.jpg)](https://www.youtube.com/watch?v=h1nKOCWFg4E)
 
 
 Click on image above for Video demo
